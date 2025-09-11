@@ -32,7 +32,7 @@ plt.show()
 # ### b. Based on the histogram from #1a, which would you expect to be higher, the mean or the median? why?
 
 # %% [markdown]
-# From the histogram, I can see that the number of data points with low sepal width is slightly greater than the number with high sepal width. This indicates that the distribution is skewed to the right, so it is expected that the mean value is larger than the median value.
+# From the histogram, I can see that the distribution is slightly skewed to the right, so it is expected that the mean value is larger than the median value.
 
 # %% [markdown]
 # ### c. Confirm your answer to #1b by actually finding these values.
